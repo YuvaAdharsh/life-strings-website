@@ -1,4 +1,5 @@
-Life Strings – Resilience Assessment 
+# Life Strings – Resilience Assessment 
+
 
 Life Strings Backend is a Node.js/Express API designed to power the Life Strings resilience assessment tool. It enables feedback collection, real-time analytics, and secure data management to evaluate psychological resilience. The system is lightweight, file-based, and easy to deploy with built-in health monitoring and admin endpoints.
 
